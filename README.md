@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Agnish07/agnishleetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Agnish07/agnishleetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Agnish07/agnishleetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -16,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Agnish07/agnishleetcode/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Agnish07/agnishleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
