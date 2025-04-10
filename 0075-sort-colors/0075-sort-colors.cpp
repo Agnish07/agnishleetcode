@@ -1,17 +1,23 @@
 class Solution {
- public:
-  void sortColors(vector<int>& nums) {
-    int l = 0;                // The next 0 should be placed in l.
-    int r = nums.size() - 1;  // The next 2 should be placed in r.
+public:
+    void sortColors(vector<int>& nums) {
+        int low = 0;
+        int mid = 0;
+        int high = nums.size() - 1 ;
 
-    for (int i = 0; i <= r;)
-      if (nums[i] == 0)
-        swap(nums[i++], nums[l++]);
-      else if (nums[i] == 1)
-        ++i;
-      else
-        // We may swap a 0 to index i, but we're still not sure whether this 0
-        // is placed in the correct index, so we can't move pointer i.
-        swap(nums[i], nums[r--]);
-  }
+        while(mid <= high){
+            if(nums[mid] == 0){
+                swap(nums[low],nums[mid]);
+                low++;
+                mid++;
+            }
+            else if(nums[mid] == 1){
+                mid++;
+            }
+            else{
+                swap(nums[mid],nums[high]);
+                high--;
+            }
+        }
+    }
 };
