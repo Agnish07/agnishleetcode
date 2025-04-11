@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Agnish07/agnishleetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Agnish07/agnishleetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Agnish07/agnishleetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Agnish07/agnishleetcode/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Agnish07/agnishleetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -45,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Agnish07/agnishleetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
