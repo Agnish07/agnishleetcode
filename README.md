@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Agnish07/agnishleetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Agnish07/agnishleetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Agnish07/agnishleetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Agnish07/agnishleetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Agnish07/agnishleetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Agnish07/agnishleetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Agnish07/agnishleetcode/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Agnish07/agnishleetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
