@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Agnish07/agnishleetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Agnish07/agnishleetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Agnish07/agnishleetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Agnish07/agnishleetcode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Agnish07/agnishleetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
