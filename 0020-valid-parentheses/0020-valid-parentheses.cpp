@@ -1,26 +1,28 @@
-using namespace std;
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> stack;
-        unordered_map<char, char> closetoopen{
-            {')' , '('},
-            {']', '['},
-            {'}', '{'}
-        };
-        for(char c : s){
-            if(closetoopen.count(c)){
-                if(!stack.empty() && stack.top() == closetoopen[c]){
-                    stack.pop();
-                }
-                else{
-                    return false;
-                }
+        stack<char> st;
+
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == '(' || s[i] == '{' || s[i] == '['){
+                st.push(s[i]);
             }
+
             else{
-                stack.push(c);
+                if(st.empty()) return false;
+
+                else{
+                    char ch = st.top();
+                    st.pop();
+
+                    if((s[i] == ')' && ch != '(') || 
+                    (s[i] == '}' && ch != '{') ||
+                    (s[i] == ']' && ch != '[') ){
+                        return false;
+                    }
+                }
             }
         }
-        return stack.empty();
+        return st.empty();
     }
 };
