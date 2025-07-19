@@ -1,20 +1,22 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_map<char, int> count;
-        int res = 0;
+        int l = 0, r = 0, maxlen = 0, maxf = 0;
+        vector<int> hash(26,0);
 
-        int l = 0, maxf = 0;
-        for(int r = 0 ; r < s.size(); r++){
-            count[s[r]]++;
-            maxf = max(maxf, count[s[r]]);
+        while(r < s.size()){
+            hash[s[r] - 'A']++;
 
-            while((r - l + 1) - maxf > k){
-                count[s[l]]--;
-                l++;
+            maxf = max(maxf, (hash[s[r]-'A']));
+            if((r-l+1) - maxf > k){
+                hash[s[l] - 'A']--;
+                l = l+1;
             }
-            res = max(res, r-l+1);
+            maxlen = max(maxlen, r-l+1);
+        
+        r++;
         }
-        return res;
+
+    return maxlen;
     }
 };
