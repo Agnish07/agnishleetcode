@@ -10,21 +10,16 @@
  */
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head == NULL)return head;
-
-        ListNode* slow = head;
+    ListNode* removeNthFromEnd(ListNode* head, int n) {\
+        if(head == NULL) return NULL;
         ListNode* fast = head;
+        ListNode* slow = head;
 
-        for(int i = 0; i < n; i++){
-            fast = fast->next;
-        }
+        for(int i = 0; i < n; i++) fast = fast->next;
 
-        if(fast == NULL) {
-            ListNode* del = head;
-            head = head->next;
-            delete del;
-            return head;
+        if(fast == NULL){
+            return head->next;
+            delete head;
         }
 
         while(fast->next != NULL){
@@ -32,11 +27,10 @@ public:
             fast = fast->next;
         }
 
-        
 
-        ListNode* delnode = slow->next;
+        ListNode* temp = slow->next;
         slow->next = slow->next->next;
-        delete delnode;
+        delete temp;
 
         return head;
     }
