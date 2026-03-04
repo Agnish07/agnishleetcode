@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Agnish07/agnishleetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Agnish07/agnishleetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Agnish07/agnishleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Agnish07/agnishleetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Agnish07/agnishleetcode/tree/master/0048-rotate-image) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
