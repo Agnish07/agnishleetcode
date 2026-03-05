@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Agnish07/agnishleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
