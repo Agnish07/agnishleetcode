@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Agnish07/agnishleetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Agnish07/agnishleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Agnish07/agnishleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
+| [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Agnish07/agnishleetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Agnish07/agnishleetcode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
+| [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
