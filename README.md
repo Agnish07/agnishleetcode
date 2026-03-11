@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
+| [1009-complement-of-base-10-integer](https://github.com/Agnish07/agnishleetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
