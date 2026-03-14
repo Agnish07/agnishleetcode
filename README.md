@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Agnish07/agnishleetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Agnish07/agnishleetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Agnish07/agnishleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Agnish07/agnishleetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Agnish07/agnishleetcode/tree/master/0048-rotate-image) |
+| [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Agnish07/agnishleetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 <!---LeetCode Topics End-->
