@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1622-fancy-sequence](https://github.com/Agnish07/agnishleetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Agnish07/agnishleetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Agnish07/agnishleetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Agnish07/agnishleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Agnish07/agnishleetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Agnish07/agnishleetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Agnish07/agnishleetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
