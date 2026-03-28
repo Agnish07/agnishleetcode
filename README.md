@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Agnish07/agnishleetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Agnish07/agnishleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Agnish07/agnishleetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Agnish07/agnishleetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Agnish07/agnishleetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Simulation
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Agnish07/agnishleetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Agnish07/agnishleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Agnish07/agnishleetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -227,12 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Agnish07/agnishleetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Agnish07/agnishleetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Agnish07/agnishleetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
