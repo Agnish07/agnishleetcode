@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Agnish07/agnishleetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Agnish07/agnishleetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Agnish07/agnishleetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Agnish07/agnishleetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Agnish07/agnishleetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
