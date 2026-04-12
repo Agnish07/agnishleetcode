@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Agnish07/agnishleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Agnish07/agnishleetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Agnish07/agnishleetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Agnish07/agnishleetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Agnish07/agnishleetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Agnish07/agnishleetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
