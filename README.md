@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Agnish07/agnishleetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Agnish07/agnishleetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Agnish07/agnishleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/Agnish07/agnishleetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Agnish07/agnishleetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Agnish07/agnishleetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Agnish07/agnishleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Agnish07/agnishleetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
