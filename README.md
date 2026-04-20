@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Agnish07/agnishleetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Agnish07/agnishleetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Agnish07/agnishleetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Agnish07/agnishleetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Agnish07/agnishleetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Agnish07/agnishleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Agnish07/agnishleetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Agnish07/agnishleetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Agnish07/agnishleetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Agnish07/agnishleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Agnish07/agnishleetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Agnish07/agnishleetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
