@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Agnish07/agnishleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Agnish07/agnishleetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Agnish07/agnishleetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Agnish07/agnishleetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Agnish07/agnishleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Agnish07/agnishleetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Agnish07/agnishleetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Agnish07/agnishleetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Agnish07/agnishleetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Agnish07/agnishleetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
