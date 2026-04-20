@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Agnish07/agnishleetcode/tree/master/0485-max-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Agnish07/agnishleetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Agnish07/agnishleetcode/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/Agnish07/agnishleetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Agnish07/agnishleetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Agnish07/agnishleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Agnish07/agnishleetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Agnish07/agnishleetcode/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Agnish07/agnishleetcode/tree/master/0792-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Agnish07/agnishleetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
