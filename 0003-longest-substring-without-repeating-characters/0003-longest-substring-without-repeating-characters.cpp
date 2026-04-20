@@ -1,27 +1,27 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int i = 0;
-        int j = 0;
-        int maxi = 0;
-        unordered_map<char, int> mpp;
+        int n = s.size();
+        vector<int> hash(256, -1);
+        int l = 0;
+        int r = 0;
+        int maxlen = 0;
 
-        while(j < s.size() && i <= j){
-            if(mpp.find(s[j]) == mpp.end()){
-                mpp[s[j]] = j;
-                maxi = max(maxi, j-i+1);
-                j++;
-                continue;
-            }
-            else{
-            i = max(i, mpp[s[j]]+1);
-            mpp[s[j]] = j;
-            maxi = max(maxi, j - i + 1);
-            j++;
+        while(r < n){
+
+            if(hash[s[r]] != -1){
+                if(hash[s[r]] >= l){
+                    l = hash[s[r]] + 1;
+                }
             }
 
+            int len = r-l+1;
+            maxlen = max(maxlen, len);
+
+            hash[s[r]] = r;
+            r++;
         }
 
-        return maxi;
+        return maxlen;
     }
 };
