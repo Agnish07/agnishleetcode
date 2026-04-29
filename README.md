@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1622-fancy-sequence](https://github.com/Agnish07/agnishleetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Agnish07/agnishleetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Agnish07/agnishleetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Agnish07/agnishleetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Agnish07/agnishleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Agnish07/agnishleetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Agnish07/agnishleetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Agnish07/agnishleetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Agnish07/agnishleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Agnish07/agnishleetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Agnish07/agnishleetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Agnish07/agnishleetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Agnish07/agnishleetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Agnish07/agnishleetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Agnish07/agnishleetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Agnish07/agnishleetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Agnish07/agnishleetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Agnish07/agnishleetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Agnish07/agnishleetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Agnish07/agnishleetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Agnish07/agnishleetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
