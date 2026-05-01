@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Agnish07/agnishleetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0396-rotate-function](https://github.com/Agnish07/agnishleetcode/tree/main/0396-rotate-function/) | Medium |
 | [1622-fancy-sequence](https://github.com/Agnish07/agnishleetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Agnish07/agnishleetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Agnish07/agnishleetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Agnish07/agnishleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Agnish07/agnishleetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0396-rotate-function](https://github.com/Agnish07/agnishleetcode/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Agnish07/agnishleetcode/tree/master/0485-max-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Agnish07/agnishleetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Agnish07/agnishleetcode/tree/main/0704-binary-search/) | Easy |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Agnish07/agnishleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Agnish07/agnishleetcode/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/Agnish07/agnishleetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0396-rotate-function](https://github.com/Agnish07/agnishleetcode/tree/main/0396-rotate-function/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Agnish07/agnishleetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Agnish07/agnishleetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Agnish07/agnishleetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
