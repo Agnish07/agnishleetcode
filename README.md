@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/Agnish07/agnishleetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Agnish07/agnishleetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Agnish07/agnishleetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Agnish07/agnishleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Agnish07/agnishleetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Agnish07/agnishleetcode/tree/master/0125-valid-palindrome) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Agnish07/agnishleetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Agnish07/agnishleetcode/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Agnish07/agnishleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Agnish07/agnishleetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
